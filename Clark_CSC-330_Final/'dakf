@@ -1,0 +1,72 @@
+[33mcommit 8379598d00f3f44793993c8960c537624dff74ac[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Tue Dec 13 13:50:42 2016 -0500
+
+     Changed the Comments
+
+[33mcommit afbd202963ff0c3d28646aa7d335a8f14691b313[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Tue Dec 6 15:28:12 2016 -0500
+
+    Now I actually Finished with Pics and Calculations
+
+[33mcommit ba752e9f0752a85141005035fb462ba2d871783b[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Tue Dec 6 13:15:54 2016 -0500
+
+    Finished It
+
+[33mcommit 3a4d7962816423f73089a5ef177c4ce5b0099dd6[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Wed Nov 30 14:45:45 2016 -0500
+
+    Changed ADC02 to ADC05 per requirements
+
+[33mcommit 9c4f9257b1e76a2682ac86bbbc8176c5c4f7e803[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Wed Nov 30 14:22:55 2016 -0500
+
+    Added the code for SawTooth, Beta
+
+[33mcommit d80acacfee77661e79220031c747b21f5e1ede64[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Mon Nov 28 16:55:55 2016 -0500
+
+    Added Pull down Resistor on Schematic
+
+[33mcommit d77c3e0d5e1581f6ca18b291bf697243a08e8a28[m
+Merge: fdf5630 619cbe0
+Author: JP <jc7553a@student.american.edu>
+Date:   Sun Nov 27 14:27:01 2016 -0500
+
+    Merge branch 'master' of http://bitbucket.org/jc7553a/clark_csc-330_final
+
+[33mcommit fdf56302c55c4eb5f83e57236ca100e29a494833[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Sun Nov 27 14:05:43 2016 -0500
+
+    Deleted the .md and added schematic
+
+[33mcommit 619cbe0df441271e71410c8d4b61b68e47ac77b9[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Fri Nov 25 20:52:33 2016 +0000
+
+    alpha.md deleted online with Bitbucket
+
+[33mcommit 1d1e459e55825dd21d0f3f2af7493885f98b3002[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Tue Nov 22 15:28:42 2016 -0500
+
+    Added PDF Alpha
+
+[33mcommit 30b4cd998e060cbc2341ba3e9dea93ce8214c6db[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Mon Nov 21 15:43:20 2016 -0500
+
+    First Update wrote alpha
+
+[33mcommit ddb50bd3ed8c3c92d9855327b1962f79abf95685[m
+Author: JP <jc7553a@student.american.edu>
+Date:   Mon Nov 21 15:32:24 2016 -0500
+
+    Made the File
